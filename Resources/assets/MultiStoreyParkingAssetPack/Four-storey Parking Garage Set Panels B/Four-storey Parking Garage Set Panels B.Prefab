@@ -1,0 +1,106 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.BuildingExtensionPrefab, Game",
+    "name": "Four-storey Parking Garage Set Panels B",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 2,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.ServiceUpgrade, Game",
+                "name": "ServiceUpgrade",
+                "active": true,
+                "m_Buildings": {
+                    "$id": 3,
+                    "$type": "3|Game.Prefabs.BuildingPrefab[], Game",
+                    "$rlength": 1,
+                    "$rcontent": [
+                        $fstrref:"CID:8d58edf8da96ccc366225048e546fb98"
+                    ]
+                },
+                "m_UpgradeCost": 200,
+                "m_XPReward": 0,
+                "m_MaxPlacementOffset": -1,
+                "m_MaxPlacementDistance": 0
+            },
+            {
+                "$id": 4,
+                "$type": "4|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": null,
+                "m_Priority": 0,
+                "m_Icon": "Media/Game/Icons/CarWash.svg",
+                "m_IsDebugObject": false
+            }
+        ]
+    },
+    "m_Meshes": {
+        "$id": 5,
+        "$type": "5|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$rlength": 2,
+        "$rcontent": [
+            {
+                "$id": 6,
+                "$type": "6|Game.Prefabs.ObjectMeshInfo, Game",
+                "m_Mesh": $fstrref:"UnityGUID:07edea7d9d7c93f419db67b6ebe50076",
+                "m_Position": {
+                    "$type": "7|Unity.Mathematics.float3, Unity.Mathematics",
+                    "x": -11.32,
+                    "y": 2.6,
+                    "z": 0
+                },
+                "m_Rotation": {
+                    "$type": "8|Unity.Mathematics.quaternion, Unity.Mathematics",
+                    "value": {
+                        "$type": "9|Unity.Mathematics.float4, Unity.Mathematics",
+                        "x": 0.49999997,
+                        "y": 0.49999997,
+                        "z": 0.49999997,
+                        "w": 0.49999997
+                    }
+                },
+                "m_RequireState": 0
+            },
+            {
+                "$id": 7,
+                "$type": 6,
+                "m_Mesh": $fstrref:"UnityGUID:07edea7d9d7c93f419db67b6ebe50076",
+                "m_Position": {
+                    "$type": 7,
+                    "x": 11.32,
+                    "y": 2.6,
+                    "z": 0
+                },
+                "m_Rotation": {
+                    "$type": 8,
+                    "value": {
+                        "$type": 9,
+                        "x": -0.49999997,
+                        "y": 0.49999997,
+                        "z": 0.49999997,
+                        "w": -0.49999997
+                    }
+                },
+                "m_RequireState": 0
+            }
+        ]
+    },
+    "m_Circular": false,
+    "m_ExternalLot": false,
+    "m_Position": {
+        "$type": 7,
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+    "m_OverrideLotSize": {
+        "$type": "10|Unity.Mathematics.int2, Unity.Mathematics",
+        "x": 0,
+        "y": 0
+    },
+    "m_OverrideHeight": 0
+}

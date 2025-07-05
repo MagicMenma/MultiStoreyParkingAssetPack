@@ -1,0 +1,89 @@
+{
+    "$id": 0,
+    "$type": "0|Game.Prefabs.BuildingPrefab, Game",
+    "name": "Multi-storey Parking Garage Comfort Upgrade",
+    "active": true,
+    "components": {
+        "$id": 1,
+        "$type": "1|System.Collections.Generic.List`1[[Game.Prefabs.ComponentBase, Game]], mscorlib",
+        "$rlength": 3,
+        "$rcontent": [
+            {
+                "$id": 2,
+                "$type": "2|Game.Prefabs.UIObject, Game",
+                "name": "UIObject",
+                "active": true,
+                "m_Group": $fstrref:"UnityGUID:91c63b6825e22ec4b876ce7b52994f6b",
+                "m_Priority": 23,
+                "m_Icon": "Media/Game/Icons/Workshop.svg",
+                "m_IsDebugObject": false
+            },
+            {
+                "$id": 3,
+                "$type": "3|Game.Prefabs.ParkingFacility, Game",
+                "name": "ParkingFacility",
+                "active": true,
+                "m_ComfortFactor": 0.2,
+                "m_GarageMarkerCapacity": 0
+            },
+            {
+                "$id": 4,
+                "$type": "4|Game.Prefabs.ServiceUpgrade, Game",
+                "name": "ServiceUpgrade",
+                "active": true,
+                "m_Buildings": {
+                    "$id": 5,
+                    "$type": "5|Game.Prefabs.BuildingPrefab[], Game",
+                    "$rlength": 8,
+                    "$rcontent": [
+                        $fstrref:"CID:d3c1f2f45b9012740133273aa3234c86",
+                        $fstrref:"CID:4b489a30459cc8eb6953bd5698ea93b4",
+                        $fstrref:"CID:8d58edf8da96ccc366225048e546fb98",
+                        $fstrref:"CID:b5a0a64e63412bc9d1de42306609c447",
+                        $fstrref:"CID:ac3e111b646262e458da2f7d2bc7b276",
+                        $fstrref:"CID:4bd0b6b210041de319a28d7cb10c5ed1",
+                        $fstrref:"CID:b79f7f898ba4443c020e5bac8e82e511",
+                        $fstrref:"CID:a98f86fcc949125fc63ddf9d2d788c7d"
+                    ]
+                },
+                "m_UpgradeCost": 500,
+                "m_XPReward": 0,
+                "m_MaxPlacementOffset": -1,
+                "m_MaxPlacementDistance": 500
+            }
+        ]
+    },
+    "m_Meshes": {
+        "$id": 6,
+        "$type": "6|Game.Prefabs.ObjectMeshInfo[], Game",
+        "$rlength": 1,
+        "$rcontent": [
+            {
+                "$id": 7,
+                "$type": "7|Game.Prefabs.ObjectMeshInfo, Game",
+                "m_Mesh": $fstrref:"UnityGUID:9f127926d2f728e47864a31bbee1df89",
+                "m_Position": {
+                    "$type": "8|Unity.Mathematics.float3, Unity.Mathematics",
+                    "x": 0,
+                    "y": 0,
+                    "z": 3
+                },
+                "m_Rotation": {
+                    "$type": "9|Unity.Mathematics.quaternion, Unity.Mathematics",
+                    "value": {
+                        "$type": "10|Unity.Mathematics.float4, Unity.Mathematics",
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    }
+                },
+                "m_RequireState": 0
+            }
+        ]
+    },
+    "m_Circular": true,
+    "m_AccessType": 0,
+    "m_LotWidth": 1,
+    "m_LotDepth": 1
+}

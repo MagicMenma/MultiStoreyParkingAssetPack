@@ -1,0 +1,60 @@
+﻿<Publish>
+	<ModId Value="114138" />
+	
+	<DisplayName Value="Multi-storey Parking System" />
+	
+	<ShortDescription Value="Multi-storey Parking System" />
+	
+	<LongDescription>
+		## Park. Stack. Dominate.
+		A puzzle-type automated multi-level parking system designed to maximize parking capacity in limited urban spaces — stack smarter, not wider.
+		─────────────────⊹⊱✿⊰⊹─────────────────
+		## How to use:
+		- Find the parking garages in the Roads > Parking Spaces.
+		- Make sure the Machine side is facing the front.
+		## Includes:
+		- 2 storey parking garage
+		- 2 storey parking garage set (3x) -- 12 parking spaces
+		- 3 storey parking garage
+		- 3 storey parking garage set (3x) -- 18 parking spaces
+		- 3 storey functioning parking garage
+		- 4 storey parking garage
+		- 4 storey parking garage set (3x) -- 24 parking spaces
+		- 5 storey parking garage
+		- optional decorative panels for sets
+		- optional extra storey for sets
+		- optional comfort upgrade
+		─────────────────⊹⊱✿⊰⊹─────────────────
+		** V1.1 **
+		Fixed incorrect comfort value.
+		Added independent comfort upgrade
+		Added 5 Storey parking garage
+		Added optional extra storey for sets
+		Fixed unfinished descriptions
+	</LongDescription>
+	
+	<Thumbnail Value="Properties/icon.jpg" />
+	
+	<Screenshot Value="Properties/1.jpg" />
+	<Screenshot Value="Properties/2.jpg" />
+	<Screenshot Value="Properties/3.jpg" />
+	<Screenshot Value="Properties/4.jpg" />
+	<Screenshot Value="Properties/5.jpg" />
+	<Screenshot Value="Properties/6.jpg" />
+	
+	<Tag Value="Code Mod" />
+	
+	<ForumLink Value="https://forum.paradoxplaza.com/forum/threads/multi-storey-parking-system.1809339/" />
+	
+	<ModVersion Value="1.2.0" />
+	
+	<GameVersion Value="1.3.*" />
+	
+	<Dependency Id="" />
+
+	<ChangeLog Value="New 'Functioning' Multi-level Parking Garage!
+			   Fix comfort upgrade" />
+	
+	<ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
+	<ExternalLink Type="youtube" Url="https://www.youtube.com/@magicmenma" />
+</Publish>
