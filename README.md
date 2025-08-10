@@ -10,8 +10,8 @@ A puzzle-type automated multi-level parking system designed to maximize parking 
 - Make sure the Machine side is facing the front.
 
 ## Includes:
-NEW Modular Inline Three-storey Parking Garage (1xN)
-NEW Modular Inline Five-storey Parking Garage (1xN)
+- NEW Modular Inline Three-storey Parking Garage (1xN)
+- NEW Modular Inline Five-storey Parking Garage (1xN)
 - 2 storey parking garage
 - 2 storey parking garage set (3x) -- 12 parking spaces
 - 3 storey parking garage
