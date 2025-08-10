@@ -32,8 +32,8 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": null,
-                "m_Priority": 0,
-                "m_Icon": "Media/Game/Icons/CarWash.svg",
+                "m_Priority": 1,
+                "m_Icon": "assetdb://global/5692fdd8e35928e9d39c17707f9198a2",
                 "m_IsDebugObject": false
             }
         ]
@@ -46,7 +46,7 @@
             {
                 "$id": 6,
                 "$type": "6|Game.Prefabs.ObjectMeshInfo, Game",
-                "m_Mesh": $fstrref:"UnityGUID:07edea7d9d7c93f419db67b6ebe50076",
+                "m_Mesh": $fstrref:"UnityGUID:65555aa7057983e45b2fcf35b22bfde2",
                 "m_Position": {
                     "$type": "7|Unity.Mathematics.float3, Unity.Mathematics",
                     "x": 3.9,
@@ -68,7 +68,7 @@
             {
                 "$id": 7,
                 "$type": 6,
-                "m_Mesh": $fstrref:"UnityGUID:07edea7d9d7c93f419db67b6ebe50076",
+                "m_Mesh": $fstrref:"UnityGUID:65555aa7057983e45b2fcf35b22bfde2",
                 "m_Position": {
                     "$type": 7,
                     "x": 8.24,
@@ -90,7 +90,7 @@
             {
                 "$id": 8,
                 "$type": 6,
-                "m_Mesh": $fstrref:"UnityGUID:07edea7d9d7c93f419db67b6ebe50076",
+                "m_Mesh": $fstrref:"UnityGUID:65555aa7057983e45b2fcf35b22bfde2",
                 "m_Position": {
                     "$type": 7,
                     "x": -2.12,
@@ -112,7 +112,7 @@
             {
                 "$id": 9,
                 "$type": 6,
-                "m_Mesh": $fstrref:"UnityGUID:07edea7d9d7c93f419db67b6ebe50076",
+                "m_Mesh": $fstrref:"UnityGUID:65555aa7057983e45b2fcf35b22bfde2",
                 "m_Position": {
                     "$type": 7,
                     "x": -8.24,

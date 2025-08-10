@@ -32,8 +32,8 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": null,
-                "m_Priority": 0,
-                "m_Icon": "Media/Game/Icons/AdvancedSorting.svg",
+                "m_Priority": 50,
+                "m_Icon": "assetdb://global/6059c1fd2916f3828dbe773fcf2bd77e",
                 "m_IsDebugObject": false
             },
             {

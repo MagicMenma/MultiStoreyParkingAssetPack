@@ -13,8 +13,8 @@
                 "$type": "2|Game.Prefabs.UIObject, Game",
                 "name": "UIObject",
                 "active": true,
-                "m_Group": $fstrref:"UnityGUID:91c63b6825e22ec4b876ce7b52994f6b",
-                "m_Priority": 23,
+                "m_Group": $fstrref:"CID:6aa42ae8f0eb73a224130d11dc6a49b0",
+                "m_Priority": 46,
                 "m_Icon": "assetdb://global/f06b71429324ab52d9afe01610bc69f4",
                 "m_IsDebugObject": false
             },

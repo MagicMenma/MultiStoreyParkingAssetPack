@@ -14,8 +14,8 @@
                 "name": "UIObject",
                 "active": true,
                 "m_Group": $fstrref:"UnityGUID:91c63b6825e22ec4b876ce7b52994f6b",
-                "m_Priority": 23,
-                "m_Icon": "Media/Game/Icons/Workshop.svg",
+                "m_Priority": 99,
+                "m_Icon": "assetdb://global/5820e090fc95cdceeb9d9ae94441ac13",
                 "m_IsDebugObject": false
             },
             {
@@ -34,7 +34,7 @@
                 "m_Buildings": {
                     "$id": 5,
                     "$type": "5|Game.Prefabs.BuildingPrefab[], Game",
-                    "$rlength": 8,
+                    "$rlength": 10,
                     "$rcontent": [
                         $fstrref:"CID:d3c1f2f45b9012740133273aa3234c86",
                         $fstrref:"CID:4b489a30459cc8eb6953bd5698ea93b4",
@@ -43,7 +43,9 @@
                         $fstrref:"CID:ac3e111b646262e458da2f7d2bc7b276",
                         $fstrref:"CID:4bd0b6b210041de319a28d7cb10c5ed1",
                         $fstrref:"CID:b79f7f898ba4443c020e5bac8e82e511",
-                        $fstrref:"CID:a98f86fcc949125fc63ddf9d2d788c7d"
+                        $fstrref:"CID:a98f86fcc949125fc63ddf9d2d788c7d",
+                        $fstrref:"CID:71af975f080623fd995c56dc5656976e",
+                        $fstrref:"CID:fd9a2717297215924e634cb52b382f11"
                     ]
                 },
                 "m_UpgradeCost": 500,
