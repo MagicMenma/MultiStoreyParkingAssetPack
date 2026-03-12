@@ -1,19 +1,18 @@
 ﻿# Multi-storey Parking System
- 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Designed For [Cities: Skylines 2](https://mods.paradoxplaza.com/mods/114138)
+## 🚙Designed For [Cities: Skylines 2](https://mods.paradoxplaza.com/mods/114138)
+It is recommended to use [Skyve](https://skyve-mod.com/) for subscription and management
 
 ## 🚗Park. Stack. Dominate. 
 A puzzle-type automated multi-level parking system designed to maximize parking capacity in limited urban spaces — stack smarter, not wider.
 
-────────────⊹⊱✿⊰⊹────────────
-
-## How to use:
+## 🔧How to use:
 - Find the parking garages in the Roads > Parking Spaces.
 - Make sure the Machine side is facing the front.
 
-## Includes:
+## 📦Includes:
 - NEW Modular Inline Three-storey Parking Garage (1xN)
 - NEW Modular Inline Five-storey Parking Garage (1xN)
 - 2 storey parking garage
@@ -27,5 +26,11 @@ A puzzle-type automated multi-level parking system designed to maximize parking 
 - optional decorative panels for sets
 - optional extra storey for sets
 - optional comfort upgrade
+  
 
-────────────⊹⊱✿⊰⊹────────────
+***
+
+<div align="center">
+  <i><h3>-⊹⊱ Designed with Elegance ⊰⊹-</h3></i>
+  <h6>More than just designs - they are a statement.<br>Each one is a masterpiece, a delightfully ingenious piece that has been carefully crafted.</h6>
+</div>
