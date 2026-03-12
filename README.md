@@ -1,11 +1,10 @@
 ﻿# Multi-storey Parking System
-
-[![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/MagicMenma/MultiStoreyParkingAssetPack)
+ 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Designed For [Cities: Skylines 2](https://mods.paradoxplaza.com/mods/114138)
 
-## Park. Stack. Dominate. 
+## 🚗Park. Stack. Dominate. 
 A puzzle-type automated multi-level parking system designed to maximize parking capacity in limited urban spaces — stack smarter, not wider.
 
 ────────────⊹⊱✿⊰⊹────────────
